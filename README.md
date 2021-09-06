@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning J. Richter, CLR via C#. I want to know how .NET works internally.
 - 💞️ I’m looking to collaborate on different startup and apps which allow us to grow up in skills.
 - 📫 You can contact me via email: kozloveg1995@gmail.com
+- Tg: @evgkozlovdev
 
 <!---
 evgenyKozlov1996/evgenyKozlov1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
